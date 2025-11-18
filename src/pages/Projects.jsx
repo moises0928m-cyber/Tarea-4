@@ -5,7 +5,7 @@ export default function Projects() {
     <>
       <div className="h-screen">
         <img
-          src="/themewagon/5.projects/our_projects.png"
+          src="/5.projects/our_projects.png"
           alt=""
           className="h-full w-full "
         />

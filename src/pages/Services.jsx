@@ -21,7 +21,7 @@ export default function Services() {
           {/* CARD 1 */}
           <div className="bg-white/40 backdrop-blur-xl rounded-3xl p-10 shadow-sm border border-white/40">
             <img
-              src="/themewagon/2.services/icon1.png"
+              src="/2.services/icon1.png"
               alt="Send Texts"
               className="w-20 mb-6"
             />
@@ -43,7 +43,7 @@ export default function Services() {
           {/* CARD 2 */}
           <div className="bg-white/40 backdrop-blur-xl rounded-3xl p-10 shadow-sm border border-white/40">
             <img
-              src="/themewagon/2.services/icon2.png"
+              src="/2.services/icon2.png"
               alt="Better Organized"
               className="w-20 mb-6"
             />
@@ -62,7 +62,7 @@ export default function Services() {
           {/* CARD 3 */}
           <div className="bg-white/40 backdrop-blur-xl rounded-3xl p-10 shadow-sm border border-white/40">
             <img
-              src="/themewagon/2.services/icon3.png"
+              src="/2.services/icon3.png"
               alt="Analytics"
               className="w-20 mb-6"
             />
@@ -88,6 +88,6 @@ export default function Services() {
 
 {
   /* <div>
-          <img src="/themewagon/2.services/service.png" alt="" />
+          <img src="/2.services/service.png" alt="" />
         </div> */
 }
